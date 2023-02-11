@@ -331,7 +331,7 @@ export default function Home() {
     if (!walletConnected) {
       return (
         <button onClick={connectWallet} className={styles.button}>
-          Connect your wallet
+          Connect wallet
         </button>
       );
     }
