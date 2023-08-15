@@ -3,7 +3,7 @@
 Exchange with only one asset pair (Enigma / ETH)
 Decentralized Exchange will take a fee of 1% on swaps
 When user adds liquidity, they are given Enigma LP tokens (Liquidity Provider tokens)
-LP tokens are given proportional to the Ether user is willing to add to the liquidity
+LP tokens are given proportionally to the Ether user is willing to add to the liquidity
 
 ## Tech Stack
 
