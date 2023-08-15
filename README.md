@@ -16,9 +16,9 @@ The smart contract itself was written in Solidity language utilizing ethers.js, 
 ### Overview/Notes
 The project came together flawlessly as a Decentalized Exchange that allows users the abililty to add & rmove liquidity, allowing for swaps between token from a previous ICO project to ETH.
 
-The amount of ether that would be sent back to the user is based the following ratio - (Eth sent back to the user) / (current Eth reserve) = (amount of LP tokens that user wants to withdraw) / (total supply of LP tokens).
+The amount of Ether tokens that are sent back to the user is based the following ratio - (Eth sent back to the user) / (current Eth reserve) = (amount of LP tokens that user wants to withdraw) / (total supply of LP tokens).
 
-The amount of Enigma tokens that would be sent back to the user is based on the following ratio - (Enigma sent back to the user) / (current Enigma token reserve) = (amount of LP tokens that user wants to withdraw) / (total supply of LP tokens).
+The amount of Enigma tokens that are sent back to the user is based on the following ratio - (Enigma sent back to the user) / (current Enigma token reserve) = (amount of LP tokens that user wants to withdraw) / (total supply of LP tokens).
 
 <a href='https://enigmatic-dex-19xr.vercel.app/' target='_blank'><img src='https://i.postimg.cc/vmW9nFp7/enigma.png' border='0' alt='memory-Game'/></a>
 
